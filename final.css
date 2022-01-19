@@ -98,7 +98,7 @@ body{
 .header h1 a{
     width: 180px;
     height: 40px;
-    background: url(/six/images/logo.png);
+    background: url(/images/logo.png);
     display: block;
     text-indent: 101%;
     white-space: nowrap;
