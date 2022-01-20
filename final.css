@@ -224,6 +224,7 @@ body{
     /* border: 1px solid #00f; */
     padding: 30px 0;
     background: linear-gradient(#00644b, #009872);
+    border-radius: 10px;
 }
 .contact h2{
     color: #fff;
